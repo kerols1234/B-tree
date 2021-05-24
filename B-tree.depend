@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1610140130 source:c:\users\kerols\desktop\b-tree\main.cpp
+	<iostream>
+	<BTree.h>
+
+1609517145 source:c:\users\kerols\desktop\b-tree\src\b-tree.cpp
+
+1609522031 source:c:\users\kerols\desktop\b-tree\src\btree.cpp
+	"BTree.h"
+
+1610140204 c:\users\kerols\desktop\b-tree\include\btree.h
+	<iostream>
+
